@@ -7,7 +7,7 @@ We fix the Basis $B = \{\alpha_1, \ldots, \alpha_6, a, b\}$ of the root system o
 
 For the reflections $s_{\beta_1}, s_{\beta_2}, \ldots, s_{\beta_8}$ as well as
 for the reflections $s_{\alpha_0}, s_{\alpha_1}, \ldots, s_{\alpha_6}, s_{\alpha_4^*}$
-we compute the transformation matrices with respect to the Basis $B$ (which we call by abuse of notation also $s_{\alpha_i}, s_beta_i}$ etc.).
+we compute the transformation matrices with respect to the Basis $B$ (which we call by abuse of notation also $s_{\alpha_i}, s_{beta_i}$ etc.).
 
 We denote by $c1$ the trasformation matrix corresponding to the product $s_{\beta_1} s_{\beta_2} \cdots s_{\beta_8}$.
 
